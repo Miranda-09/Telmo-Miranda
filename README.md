@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vasco Reis | Consultor Imobiliário em Lisboa</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background-color: #f5f5f5; color: #333; }
+    header { background-color: #c62828; color: white; padding: 2rem; text-align: center; }
+    nav { text-align: center; margin-top: 1rem; }
+    nav a { margin: 0 15px; text-decoration: none; color: #c62828; font-weight: bold; }
+    section { padding: 2rem; max-width: 800px; margin: auto; background: white; margin-top: 2rem; border-radius: 10px; }
+    h1, h2 { color: #c62828; }
+    footer { background-color: #c62828; color: white; text-align: center; padding: 1rem; margin-top: 3rem; }
+    .btn { background: #c62828; color: white; padding: 0.75rem 1.5rem; border: none; border-radius: 5px; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Telmo Miranda</h1>
+    <p>Consultor Imobiliário em Lisboa</p>
+  </header>
+
+  <nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#testemunhos">Testemunhos</a>
+    <a href="#contacto">Contacto</a>
+  </nav>
+
+  <section id="sobre mim">
+    <h2>Sobre Mim</h2>
+    <p>Sou consultor imobiliário especializado em Lisboa. Acompanho compradores, investidores e proprietários em todas as fases do processo, garantindo segurança, transparência e resultados. Se estás a pensar comprar, vender ou investir, estou aqui para ajudar.</p>
+  </section>
+
+  <section id="produtos">
+    <h2>Serviços</h2>
+    <ul>
+      <li>Apoio na compra de primeira habitação</li>
+      <li>Consultoria para investidores (rentabilidade, ROI)</li>
+      <li>Avaliação e venda de imóveis</li>
+      <li>Apoio a arrendamento e gestão de património</li>
+    </ul>
+  </section>
+
+  <section id="testemunhos">
+    <h2>Testemunhos</h2>
+    <p>"O Vasco ajudou-me a encontrar o apartamento ideal em Lisboa em apenas 2 semanas. Sempre disponível e muito profissional." — Joana M.</p>
+    <p>"Consegui vender o meu T2 por um ótimo preço com o apoio do Vasco. Recomendo a 100%." — Ricardo F.</p>
+  </section>
+
+  <section id="contacto">
+    <h2>Contacto</h2>
+    <p>Email: <a href="mailto:vasco.imobiliario@email.com">vasco.imobiliario@email.com</a></p>
+    <p>WhatsApp: <a href="https://wa.me/351910000000" target="_blank">+351 910 000 000</a></p>
+    <a class="btn" href="https://wa.me/351910000000" target="_blank">Fala comigo no WhatsApp</a>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Vasco Reis | Lisboa Imobiliário</p>
+  </footer>
+</body>
+</html>
